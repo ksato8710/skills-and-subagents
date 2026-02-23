@@ -1,6 +1,6 @@
 ---
 name: review-codex
-description: Review code changes using Codex CLI. Use this skill when the user wants to review implemented code, uncommitted changes, or specific commits using the codex review command. Triggers on requests like "review my changes with codex", "codex review", or "review this commit".
+description: "Codex CLIを使用してコード変更をレビューする。実装したコード、未コミットの変更、特定のコミットをレビューしたい場合に使用。トリガー：codexでレビュー、コードレビュー、変更をレビュー、レビューして"
 ---
 
 # Review Codex
